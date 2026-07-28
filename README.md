@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a 4th-year Systems Engineering student at the University of San Carlos of Guatemala (USAC) 📕. I love web development with experience in both front-end and back-end. I'm passionate about learning and creating useful, creative, and productive software. Big fan of coffee ☕, pizza 🍕, video games 🎮, and cold weather 🥶.
+I'm a 4th-year Systems Engineering student at the University of San Carlos of Guatemala (USAC). I love web development with experience in both front-end and back-end. I'm passionate about learning and creating useful, creative, and productive software. Big fan of coffee ☕, pizza 🍕, video games 🎮, and cold weather 🥶.
 
 - 🌱 **I’m currently learning:**
     - .NET
@@ -61,16 +61,14 @@ I'm a 4th-year Systems Engineering student at the University of San Carlos of Gu
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-estuardo-salvatierra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.instagram.com/danii_salva485/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.facebook.com/danii.salvatierra.39/?locale=es_LA"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DanielEstuardo48&label=Profile%20views&color=0e75bb&style=for-the-badge" alt="Profile Views" />
 </p>
 
 -----
