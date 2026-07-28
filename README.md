@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Daniel Estuardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<!--
-**DanielEstuardo48/DanielEstuardo48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a 4th-year Systems Engineering student at the University of San Carlos of Guatemala (USAC) 📕. I love web development with experience in both front-end and back-end. I'm passionate about learning and creating useful, creative, and productive software. Big fan of coffee ☕, pizza 🍕, video games 🎮, and cold weather 🥶.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **I’m currently learning:**
+    - .NET
+    - React
+    - SQL Server
+    - Node.js
+    - PostgreSQL
+
+- 👨‍💻 I would like to work on large projects and learn more about teamwork.
+- 💡 I like to explore new technologies and learn new things.
+- 💬 Ask me anything. I'll be happy to help or just chat!
+- 🕹️ In my free time, I like to play video games, listen to music, and watch movies.
+- 📫 Reach out to me at: **salvatierradaniel71@gmail.com**
+
+---
+
+<h2 align="left">My Skills Include</h2>
+
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=cplusplus)&nbsp;
+
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC292B)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+
+### <h2>⚙️ Github stats:</h2> 
+
+<p align="center">
+  <a href="https://github.com/DanielEstuardo48">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielEstuardo48&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/DanielEstuardo48">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielEstuardo48&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielEstuardo48/DanielEstuardo48/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
+
+-----
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
