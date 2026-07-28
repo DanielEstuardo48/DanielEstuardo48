@@ -1,8 +1,10 @@
 <h1 align="center">Hey there! I'm Daniel Estuardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
 ### 👨🏻‍💻 About Me
 
-I'm a 4th-year Systems Engineering student at the University of San Carlos of Guatemala (USAC). I love web development with experience in both front-end and back-end. I'm passionate about learning and creating useful, creative, and productive software. Big fan of coffee ☕, pizza 🍕, video games 🎮, and cold weather 🥶.
+I'm a 4th-year Systems Engineering student at the University of San Carlos of Guatemala (USAC). I love web development with experience in both front-end and back-end. I'm passionate about learning and creating useful, creative, and productive software.
 
 - 🌱 **I’m currently learning:**
     - .NET
@@ -16,7 +18,7 @@ I'm a 4th-year Systems Engineering student at the University of San Carlos of Gu
 - 💬 Ask me anything. I'll be happy to help or just chat!
 - 🕹️ In my free time, I like to play video games, listen to music, and watch movies.
 - 📫 Reach out to me at: **salvatierradaniel71@gmail.com**
-
+<br clear="right"/>
 ---
 
 <h2 align="left">My Skills Include</h2>
